@@ -1,5 +1,10 @@
-# Sentiment/Question Comparer
+# Sentiment/Question Comparer [[LINK]](https://question-similar.herokuapp.com/)
+
+https://user-images.githubusercontent.com/77198067/197790566-1c55127c-e36c-4b27-84b3-c2c603658a7d.mp4
+
 > ------------
+
+
 > ### I made this webapp using the dataset given by quora on Kaggle [Link](https://www.kaggle.com/competitions/quora-insincere-questions-classification). I have developed more scalable methods to find similarity between the two questions. Intially after performing EDA, I vectorized it to perform Algorithms. 
 > Further to improve the accuracy, I applied various feature engineering methods.
 ------------
